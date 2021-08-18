@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+  }
+  .main_packages{
+    width: 100vw;
+    height: 26vh;
+    background-image: url(https://plugo.io/wp-content/themes/plugo-child/images/plans-bg.jpg);
+    display: flex;
+    justify-content: center;
+    column-gap: 14px;
+  }
+  .basic_membership {
+    background-color:#ffffff ;
+    height: 26vh;
+    width: 20vw;
+    text-align: center;
+    box-shadow: 0px 0px 8px;
+    color: #737474;
+  }
+  .preminum_membership{
+    background-color: #ffffff;
+    align-self: flex-end;
+    height: 26vh;
+    width: 20vw;
+    text-align: center;
+    box-shadow: 0px 0px 8px;
+    color: #737474;
+  }
+  .pay{
+    color: #00d06a;
+  }
+  .Refundable{
+    color: black;
+  }
+  .text_deposits, .premium_text{
+     margin: 19px; 
+     font: -webkit-small-control;
+  }
+  .h3{
+    color: black;
+  }
+  select{
+    height: 3vh;
+    width: 9vw;
+    margin: 2px;
+  }

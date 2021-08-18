@@ -146,7 +146,9 @@
     "resetMocks": true
   },
   "babel": {
-    "plugins": ["react-hot-loader/babel"],
+    "plugins": [
+      "react-hot-loader/babel"
+    ],
     "presets": [
       "react-app"
     ]

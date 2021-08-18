@@ -11,6 +11,7 @@
     list-style: none;
     display: flex;
     justify-content: space-between;
+    position: fixed;
 }
 .logo{
     display: flex;
@@ -32,6 +33,7 @@
 }
 .navigation-item:hover{
     color: green;
+    cursor: pointer;
 }
 .contact{
     background-color: green;

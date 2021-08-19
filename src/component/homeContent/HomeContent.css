@@ -1,0 +1,27 @@
+
+.img-container{
+    width: 100%;
+}
+.Works{
+    background-color: white;
+    text-align: center;
+}
+.Works{
+    display: flex;
+    flex-direction: row;
+    grid-column-gap: 10px;
+    column-gap: 10px;
+    place-content: center;
+}
+h1,h2{
+    text-align: center;
+}
+figcaption{
+    width: 100%;
+}
+figcaption > p{
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #343434;
+}

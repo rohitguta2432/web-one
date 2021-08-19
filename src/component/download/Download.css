@@ -1,0 +1,44 @@
+
+ .download_main{
+    width: 100vw;
+    background-color: #edf5ff !important;
+    height: 19vh;
+    text-align: center;
+  }
+   
+  .download_btn{
+    background-color: black;
+    color: white;
+    height: 8vh;
+    width: 197px;
+    margin-right: 19px;
+    border-radius: 15px;
+    font-size: 17px;
+  }
+  .icon{
+    font-size: 201%;
+    color: white;
+  }
+  .subscribe{
+    background-color: black;
+    height: 161px;
+    text-align: center;
+  }
+  input[type="text"]{
+    width: 298px;
+    height: 39px;
+    border-radius: 4px;
+    margin-top: 44px;
+    font-size: 16px;
+  }
+  .subscribe_btn{
+    background-color: green;
+    border-radius: 15px;
+    height: 52px;
+    margin-left: 8px;
+    width: 200px;
+  }
+  h2{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

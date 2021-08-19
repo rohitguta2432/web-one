@@ -1,0 +1,76 @@
+.where{
+    text-align: center;
+  }
+  .add_container{
+    margin-top: 66px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+  }
+  .add_img{
+    display: block;
+  }
+  .add_btn{
+    background-color: #00d06a;
+    border-radius: 22px;
+    width: 253px;
+    height: 49px;
+    color: white;
+    margin-left: 921px;
+    margin-top: 101px;
+    font-size: 19px;
+  }
+  .footer_term{
+    display: flex;
+    margin: 190px;
+    position: absolute;
+    bottom: -10px;
+    left: -144px;
+  }
+  h3{
+     margin-left: 31px;
+  }
+  h5{
+    margin: 210px;
+    margin-top: -147px;
+    position: absolute;
+    bottom: -50px;
+    left: -136px;
+  }
+  .footer_line{
+    width: 100vw;
+    height: 2vh;
+    background-color: #00d06a;
+    position: absolute;
+    bottom: 0;
+  }
+  .facebook_img{
+    color: blue;
+    font-size: 40px;
+  
+  }
+  .youtube_img{
+    color: red;
+    font-size: 40px;
+  }
+  .instagram_img{
+    color: #8a3ab9;
+    font-size: 40px;
+  }
+  .linkedin_img{
+    color: var(--color-brand);
+    font-size: 40px;
+  }
+  .twitter_img{
+    color: #00acee;
+    font-size: 40px;
+  }
+  .social_img{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 153px;
+    right: 136px;
+  }

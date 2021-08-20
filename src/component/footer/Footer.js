@@ -35,7 +35,7 @@ const Footer = () => {
             <button className="add_btn">
                 Partner with us!
           </button>
-            <div className="footer_term">
+            {/* <div className="footer_term">
                 <h3>
                     Terms and Conditions
             </h3>
@@ -54,8 +54,8 @@ const Footer = () => {
                 <br />
 
             </div>
-            <h5> &copy; Copyright  {new Date().getFullYear().toString()} | All Rights Reserve </h5>
-            <div className="social_img">
+            <h5> &copy; Copyright  {new Date().getFullYear().toString()} | All Rights Reserve </h5> */}
+            {/* <div className="social_img">
 
                 <div className="facebook">
                     <AiFillFacebook className="facebook_img" />
@@ -75,7 +75,7 @@ const Footer = () => {
             </div>
             <div className="footer_line">
 
-            </div>
+            </div> */}
         </>
     )
 }

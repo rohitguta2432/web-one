@@ -36,14 +36,75 @@
     cursor: pointer;
 }
 .contact{
-    background-color: green;
-    border-radius: 263px 165px;
+    width: 87px;
+    background-color: black;
+    border-radius: 30px;
     color: white;
-    height: 24px;
+    height: 25px;
+    text-align: center;
+    padding: 4px;
+    margin-top: -5px;
+}
+.contact:hover{
+    color: green;
 }
 .download{
-    background-color: green;
-    border-radius: 263px 165px;
+    width: 87px;
+    background-color: black;
+    border-radius: 30px;
     color: white;
-    height: 24px;
+    height: 25px;
+    text-align: center;
+    padding: 4px;
+    margin-top: -5px;
+}
+ .contact_modal{
+    background-color: #ffffff;
+    margin: 25px;
+    padding: 25px;
+    height: 66vh;
+} 
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;;
+}
+.contact_message{
+    height: 103px;
+    width: 106px;
+    display: block;
+    margin-top: 15px;
+    height: 69ox;
+    width: 300px;
+    border: 1px solid #efefef;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.contact_form input[type="text"], input[type="email"]{
+    border:1px solid #efefef;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.close_modal{
+    font-size: 15px;    
+}
+.formSubmit{
+    width: 164px;
+    height: 52px;
+    border-radius: 26px;
+    background-color: green;
+    color: #ffffff;
+    margin-left: 880px;
+    margin-top: 20px;
+}
+.contact_details{
+ position: absolute; 
+ top: 72px;
+ right: 150px;
+ 
+}
+.where_h1{
+    margin-top: 10px;
 }
